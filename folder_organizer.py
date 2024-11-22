@@ -7,7 +7,8 @@ destination_folders = {
     "Videos": [".mp4", ".mov"],
     "Music": [".mp3", ".wav"],
     "Applications": [".exe"],
-    "Zip": [".rar",".zip",".cab",".arj",".lzh",".tar",".gzip",".uue",".iso",".bzip2",".7z"]
+    "Zip": [".rar",".zip",".cab",".arj",".lzh",".tar",".gzip",".uue",".iso",".bzip2",".7z"],
+    "Scripts": [".jar", ".py"]
 }
 
 def organize_files(source_folder):
